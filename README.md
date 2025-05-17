@@ -57,3 +57,26 @@ npm run dev
 cd backend
 ./mvnw spring-boot:run
 
+
+## Team Members
+**Sandeeb Adhikari** — Backend, Architecture, API Design
+
+**Aditya** — Frontend, UI/UX, Component Development
+
+**Sudeep** — AI integration, Quiz Engine, Testing
+
+## Future Features (Phase 2+)
+- Group study rooms
+
+- Instructor portal for quiz creation
+
+- AI-powered summary of performance history
+
+- Topic suggestion engine
+
+## License
+This project is for academic and learning purposes.
+
+## Contact
+Feel free to fork the repo, submit issues, or reach out with collaboration request!
+
