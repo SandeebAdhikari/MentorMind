@@ -2,11 +2,11 @@
 
 An AI-powered adaptive learning platform built for university students. Final year capstone project.
 
-## 📁 Project Structure
+## Project Structure
 
 mentormind/
-├── frontend/ # Next.js + Tailwind CSS frontend
-└── backend/ # Spring Boot + PostgreSQL backend
+ -frontend/ 
+ -backend/
 
 
 ## Features
