@@ -1,4 +1,4 @@
-# MentorMind 🧠📚
+# MentorMind
 
 An AI-powered adaptive learning platform built for university students. Final year capstone project.
 
@@ -18,16 +18,44 @@ mentormind/
 
 ## Tech Stack
 
-- **Frontend:** Next.js, Tailwind CSS, DaisyUI
-- **Backend:** Spring Boot, PostgreSQL, JWT Auth
-- **AI:** GPT-4 API (optional)
-- **Deployment:** Vercel (frontend), Render/Heroku (backend)
+### Frontend
+- Next.js (React)
+- Tailwind CSS + DaisyUI
+- Axios (API calls)
+- React Hook Form
 
-## How to Run
+### Backend
+- Spring Boot
+- PostgreSQL
+- Spring Security + JWT
+- REST APIs
+
+### AI & Tools
+- OpenAI GPT-4 (via API)
+- Git + GitHub
+- Vercel (frontend deployment)
+- Render / Railway (backend deployment)
+- Docker (optional for containerized deployment)
+
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- Java 17+
+- PostgreSQL 15+
+- OpenAI API key (for GPT-based features)
+
 
 ### Frontend
 ```bash
 cd frontend
 npm install
 npm run dev
+
+### Backend
+```bash
+cd backend
+./mvnw spring-boot:run
 
