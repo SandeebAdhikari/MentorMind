@@ -3,7 +3,7 @@
 An AI-powered adaptive learning platform built for university students.
 ## Project Structure
 
-mentormind/
+-mentormind/
  -frontend/ 
  -backend/
 
