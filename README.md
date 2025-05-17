@@ -1,7 +1,6 @@
 # MentorMind
 
-An AI-powered adaptive learning platform built for university students. Final year capstone project.
-
+An AI-powered adaptive learning platform built for university students.
 ## Project Structure
 
 mentormind/
