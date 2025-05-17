@@ -51,12 +51,13 @@ mentormind/
 cd frontend
 npm install
 npm run dev
+```
 
 ### Backend
 ```bash
 cd backend
 ./mvnw spring-boot:run
-
+```
 
 ## Team Members
 **Sandeeb Adhikari** — Backend, Architecture, API Design
